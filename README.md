@@ -12,4 +12,4 @@ We will try to find out if the following factors drive the demand for rides:
 2. Weather
    - Does rain cause more people to take rides?
 3. Day of the week
-   - Is the demand for rides higher on Monday compared to Thurday?
+   - Is the demand for rides higher on Monday compared to Thursday?
